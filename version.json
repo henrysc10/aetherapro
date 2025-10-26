@@ -2,7 +2,7 @@
   "version": "4.1",
   "min_version": "4.1",
   "url": "https://github.com/henrysc10/aethera-bot-updates/releases/download/v4.1/Aethera_v4.1.zip",
-  "notes": "- Correção B7 - Fuga Inimigo.",
-  "dashboard_news": "- Novo campo de notícias no painel!\n- Dica: Verifique a seção de Ajustes para mais opções.\n- Lembrete: Mantenha sua licença ativa!",
+  "notes": "- Aethera IA.",
+  "dashboard_news": "- Nova versão com IA integrada!",
   "status": "online"
 }
