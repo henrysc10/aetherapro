@@ -1,8 +1,8 @@
 {
-  "version": "2.0",
-  "min_version": "2.0",
-  "url": "https://github.com/henrysc10/aetherapro/releases/download/v2.0/Aethera_v2.0.7z",
+  "version": "2.1",
+  "min_version": "2.1",
+  "url": "https://github.com/henrysc10/aetherapro/releases/download/v2.1/Aethera_v2.1.7z",
   "notes": "- Aethera IA.",
-  "dashboard_news": "- Atualização FarmAFK!",
+  "dashboard_news": "- Correção Quest Principal e FarmAFK!",
   "status": "online"
 }
