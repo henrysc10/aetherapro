@@ -1,8 +1,8 @@
 {
-  "version": "2.1",
-  "min_version": "2.1",
-  "url": "https://github.com/henrysc10/aetherapro/releases/download/v2.1/Aethera_v2.1.7z",
+  "version": "2.2",
+  "min_version": "2.2",
+  "url": "https://github.com/henrysc10/aetherapro/releases/download/v2.2/Aethera_v2.2.7z",
   "notes": "- Aethera IA.",
-  "dashboard_news": "- Correção Quest Principal e FarmAFK!",
+  "dashboard_news": "- Correção Party Dugeons!",
   "status": "online"
 }
