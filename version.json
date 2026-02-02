@@ -1,8 +1,8 @@
 {
-  "version": "2.2",
-  "min_version": "2.2",
-  "url": "https://github.com/henrysc10/aetherapro/releases/download/v2.2/Aethera_v2.2.7z",
+  "version": "2.3",
+  "min_version": "2.3",
+  "url": "https://github.com/henrysc10/aetherapro/releases/download/v2.3/Aethera_v2.3.7z",
   "notes": "- Aethera IA.",
-  "dashboard_news": "- Correção Party Dugeons!",
+  "dashboard_news": "- Ajuste fuga Underground!",
   "status": "online"
 }
