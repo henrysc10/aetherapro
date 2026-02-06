@@ -1,8 +1,8 @@
 {
-  "version": "2.3",
-  "min_version": "2.3",
-  "url": "https://github.com/henrysc10/aetherapro/releases/download/v2.3/Aethera_v2.3.7z",
+  "version": "2.4",
+  "min_version": "2.4",
+  "url": "https://github.com/henrysc10/aetherapro/releases/download/v2.4/Aethera_v2.4.7z",
   "notes": "- Aethera IA.",
-  "dashboard_news": "- Ajuste fuga Underground!",
+  "dashboard_news": "- Ajuste farm afk!",
   "status": "online"
 }
