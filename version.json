@@ -5,7 +5,7 @@
   "status": "online",
   "version": "3.5.0",
   "url": "https://github.com/henrysc10/aetherapro/releases/download/v3.5.0/Aethera_v3.5.0.7z",
-  "sha256": "2eab7fa797872c03205f8cb99a25979be42fb000645d9cbc36d2089bebdd39a6",
+  "sha256": "d5f3d34774ef2ebafa000f6af7afb89c072d8cd138671501ae705302930e808b",
   "runtime": {
     "profile": "py311-torch211-cu128-1",
     "python": "3.11.9",
