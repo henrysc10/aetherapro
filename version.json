@@ -3,9 +3,9 @@
   "notes": "- Correcoes da quest principal e entrada nas dungeons.",
   "dashboard_news": "- Aethera",
   "status": "online",
-  "version": "3.5.4",
-  "url": "https://github.com/henrysc10/aetherapro/releases/download/v3.5.4/Aethera_v3.5.4.7z",
-  "sha256": "aaa0e4061c0dbd6fb80a33b543d29fc00a38cc2608359d60c9ab0a17aac9888b",
+  "version": "3.5.5",
+  "url": "https://github.com/henrysc10/aetherapro/releases/download/v3.5.5/Aethera_v3.5.5.7z",
+  "sha256": "556d60bbae9abd59ff46d3084844a41ba9617ea8fe1286de677e55887fa93ea4",
   "runtime": {
     "profile": "py311-torch211-cu128-1",
     "python": "3.11.9",
