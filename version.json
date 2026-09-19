@@ -1,8 +1,17 @@
 {
-  "version": "3.5.0",
-  "min_version": "3.5.0",
-  "url": "https://github.com/henrysc10/aetherapro/releases/download/v3.5.0/Aethera_v3.5.0.7z",
-  "notes": "- Aethera IA.",
+  "min_version": "3.4",
+  "notes": "- Correcoes da quest principal e entrada nas dungeons.",
   "dashboard_news": "- Aethera",
-  "status": "online"
+  "status": "online",
+  "version": "3.5.0",
+  "url": "https://github.com/henrysc10/aetherapro/releases/download/v3.5.0/Aethera_v3.5.0.7z",
+  "sha256": "2eab7fa797872c03205f8cb99a25979be42fb000645d9cbc36d2089bebdd39a6",
+  "runtime": {
+    "profile": "py311-torch211-cu128-1",
+    "python": "3.11.9",
+    "torch": "2.11.0",
+    "torchvision": "0.26.0",
+    "cuda_index": "cu128",
+    "requirements_sha256": "12d36a6695619f05ea4ed924f29c570732c0d86ec5f632419b51eefdda9a0c74"
+  }
 }
